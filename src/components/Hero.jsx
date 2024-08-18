@@ -55,7 +55,7 @@ const Hero = () => {
 
         <div data-scroll data-scroll-speed='0.4'>
           <h1 className={`font-black lg:text-[90px] sm:text-[60px] xs:text-[50px] text-[40px] lg:leading-[98px] mt-20 text-white`}>
-            Hi, I'm <p className='text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 text-[60px] lg:text-[110px]'>Shaurya</p>
+            Hi, <p className='text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 text-[60px] lg:text-[110px]'>Sonam</p>
           </h1>
 
         </div>
