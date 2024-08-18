@@ -30,7 +30,7 @@ export const navLinks = [
   {
     id: "resume",
     title: "Resume",
-    url: "https://drive.google.com/file/d/1gsziMJZTRCUK1-rKFkV7LiqyXyIYGGKL/view?usp=sharing", // Your Google Drive link
+    url: "https://drive.google.com/file/d/1Mr1dMTTG-r3LlJTNhkxoI9J3IjrWcgKl/view?usp=sharing", // Your Google Drive link
   },
 ];
 
@@ -116,8 +116,8 @@ const projects = [
       },
     ],
     image: inkSync,
-    source_code_link: "https://github.com/shaurya8688/inksync.git",
-    live_link: "https://inksync-one.vercel.app/",
+    source_code_link: "https://github.com/Sonam291093/inksync.git",
+    live_link: "https://inksync-dusky.vercel.app/",
   },
   {
     name: "Weather Detection",
@@ -142,8 +142,8 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/shaurya8688/weather-App.git",
-    live_link: "https://shauryaweatherapp8688.netlify.app/",
+    source_code_link: "https://github.com/Sonam291093/weather-detection.git",
+    live_link: "https://weather-detection-silk.vercel.app/",
   },
   {
     name: "Flappy Bird",
@@ -166,7 +166,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/shaurya8688/FlappybirdGame",
+    source_code_link: "https://github.com/Sonam291093/flappy-bird-game-.git",
     live_link: "https://flappybird14.netlify.app/",
   },
 ];
